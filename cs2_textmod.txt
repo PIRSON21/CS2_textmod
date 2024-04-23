@@ -1,8 +1,4 @@
-"Source"                                                "https://github.com/xPaw/CS2"
-"Source"                                                "https://gist.github.com/aSharkTank/041605c01ecc3e223607dc777b6d97cc"
-"Source"                                                "https://github.com/ellipszist/TextColorMod"
-"Source"                                                "https://github.com/hexgu/CS2-TextMod/tree/main"
-"Source"                                                "https://github.com/Alicesyn/CS-Text-Mod"
+"Source"                                                "https://github.com/PIRSON21/CS2_textmod"
 
 "Tokens"
 {
