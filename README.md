@@ -21,7 +21,11 @@ EN: Thanks to these cool guys whose text mods I used to create my own mod.
 RU: Спасибо этим ребятам, чьи текстовые моды я использовал при создании своего.
 
 https://github.com/xPaw/CS2
+
 https://gist.github.com/aSharkTank/041605c01ecc3e223607dc777b6d97cc
+
 https://github.com/ellipszist/TextColorMod
+
 https://github.com/hexgu/CS2-TextMod
+
 https://github.com/Alicesyn/CS-Text-Mod
